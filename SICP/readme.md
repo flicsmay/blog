@@ -3,11 +3,11 @@
 
 这里是我个人对《计算机程序构造和解释》这本书学习中的理解。   
 
-* 第一章
+* [第一章](https://github.com/flicsmay/blog/blob/master/SICP/chapter1/chapter%201.md)
 
 * 第四章 
 	* 4.1
-		* *eval* & *apply*
+		* [*eval* & *apply*](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/eval-apply.md)
 
 
 ***
