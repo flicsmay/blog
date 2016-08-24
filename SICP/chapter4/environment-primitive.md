@@ -27,3 +27,4 @@
 
 在这里 *primitive-procedure* 就是通过名字来对应基础的过程，然后用 *apply* 过程来将参数应用到函数上。这个是应用基础条件的一个必不可少的过程。（这个貌似就是本身编译器带的 *apply* 。也许不对。。。或许有什么其他方法能实现 *apply* 呢）
 
+具体应用的方法呢就是在最初 *setup-environment* 的时候将基本过程导入，比如: `symbol : + , value : 'primitive +` 那个 *primitive* 是之后加入的，用来区分用户定义的过程，读取出 `list(primitive +)` 之后取出 **+** 然后内置 *apply* 就好。

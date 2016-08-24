@@ -8,6 +8,7 @@
 * 第四章 
 	* 4.1
 		* [*eval* & *apply*](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/eval-apply.md)
+		* [*environment* & *primitive-procedure*](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/environment-primitive.md)
 
 
 ***
