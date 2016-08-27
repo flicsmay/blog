@@ -10,7 +10,8 @@
 		* [*eval* & *apply*](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/eval-apply.md)
 		* [*environment* & *primitive-procedure*](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/environment-primitive.md)
 		* [将语法与执行分离](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/将语法与执行分离.md)
-
+	* 4.2
+		* [延时求值](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/延时求值.md)
 
 ***
 
