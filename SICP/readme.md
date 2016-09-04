@@ -17,6 +17,8 @@
 	* 4.4
 		* [查询系统的实现](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/查询系统的实现.md)
 	* [第四章总结](https://github.com/flicsmay/blog/blob/master/SICP/chapter4/第四章总结.md)
+* 第五章
+	* [堆栈式虚拟机](https://github.com/flicsmay/blog/blob/master/SICP/chapter5/堆栈式虚拟机.md)
 
 ***
 
